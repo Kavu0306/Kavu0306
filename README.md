@@ -1,6 +1,4 @@
-' Hi there 👋
-
-Here are some ideas to get you started:
+ Hey Rockzz 👋
 
 - 🌱 I’m MERN stack developer
 - 👯 I’m looking forward to work with growing companies
